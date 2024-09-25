@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+	double i;
+	scanf("%lf",&i);
+	printf("%.2lf0000",i);
+	
+	return 0;
+}                                //周的解法
